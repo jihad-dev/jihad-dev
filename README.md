@@ -1,4 +1,3 @@
-[(https://scontent.fdac1-2.fna.fbcdn.net/v/t39.30808-6/367688353_764917818974413_7179664357516878007_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFzKz5a-YfnRk0iuyRfs7bwbEFIKB225x1sQUgoHbbnHXromhUllk9V0EFFMtAuRnHKlQ7g3CLE6b2I5S1q0Wam&_nc_ohc=En7TFuWVH_YAX-zH2j_&_nc_zt=23&_nc_ht=scontent.fdac1-2.fna&oh=00_AfA9GGZyQhd5r120gBpo1yMbeMfup9piZ-JJCju48xKFhg&oe=65F56AE4)]
 
 ### Hi there 👋, my name is Jihadul Islam
 #### A passionate frontend developer from Barisal, Bangladesh.
