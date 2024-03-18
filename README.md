@@ -44,7 +44,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://jihad-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://jihad-portfolio.vercel.app/](https://jihad-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
