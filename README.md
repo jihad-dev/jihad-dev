@@ -3,7 +3,7 @@
                              HEADING
 ============================================================== -->
 <h1 align="center"> <img
-    src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello there... I am Shourav Rajbongshi <img
+    src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/Hello, It s Me  Jihadul Islam <img
     src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
 
 <!-- ============================================================
@@ -44,7 +44,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://developer-shourav.web.app/)
+- 👨‍💻 All of my projects are available at [https://developer-shourav.web.app](https://jihad-portfolio.vercel.app/)
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
 
