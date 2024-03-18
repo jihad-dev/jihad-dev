@@ -317,7 +317,7 @@ alt="netlify"
 
 <p  align="center" >
 <img  width="46%"  src="https://streak-stats.demolab.com/?user=jihad-dev" alt="Developer-Shourav github status" />
-<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" />
+<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=jihad-dev&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" />
 <p>
 
 
