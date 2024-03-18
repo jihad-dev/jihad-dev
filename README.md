@@ -316,10 +316,12 @@ alt="netlify"
 ## Github Stats
 
 
-
+<p align="center">
 <img  width="46%"  src="https://github-readme-stats.vercel.app/api?username=jihad-dev&show_icons=true&theme=radical" alt="Developer-jihad github status" />
 <img  width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=jihad-dev&theme=radical&border_radius=6" alt="Developer-jihad GitHub Streak" />
-<p>
+<img  width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad-dev&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Developer-jihad GitHub Streak" />
+ 
+</p>
 
 
 
