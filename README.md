@@ -32,7 +32,7 @@
 ============================================================== -->
 <p  >
 <img width="200px"
-  src="https://komarev.com/ghpvc/?username=developer-shourav&label=Profile%20views&color=0e75b6&style=flat"
+  src="https://komarev.com/ghpvc/?username=jihad-dev&label=Profile%20views&color=0e75b6&style=flat"
   alt="developer-shourav"
 />
 </p>
