@@ -14,7 +14,7 @@
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
-![Developer-shourav-Banner](https://i.ibb.co/VJbgYZC/developer-shourav-ghithub-banner-compressed.png)
+![Developer-Jihad-Banner](https://i.ibb.co/SRWSw72/367688353-764917818974413-7179664357516878007-n.png)
 
 
 <!-- ============================================================
