@@ -28,7 +28,7 @@
 
 ## <picture><img src="https://i.ibb.co/JRp2626/about-me.gif" width = 30px align="center"></picture><b> About Me</b>
 Hello! My name is Jihadul Islam, From Barisal, Bangladesh. I am a MERN Stack web developer specializing in building React.js WebApp. I enjoy creating things that live on the internet. My interest in web development started back in 2021, I use Javascript, React.js, Next.js, Express, Node, Mongodb, Firebase and much more technology to create high-end interactive experiences and products. Recently working on some great and best projects.
- <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 <!-- ============================================================
                       TROFFES
 ============================================================== -->
@@ -40,7 +40,7 @@ Hello! My name is Jihadul Islam, From Barisal, Bangladesh. I am a MERN Stack web
     margin-right: 5px;
 /></a>
 </p>
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 
 <!-- ============================================================
                      PROFILE VIEWER
