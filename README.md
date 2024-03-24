@@ -301,23 +301,8 @@ alt="netlify"
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
 <br>
 
-<img align="right" width="70px" src="https://i.ibb.co/58V22Zs/university.png" />
-
-- 📖 **&nbsp;Bachelor of Social Work**\
-📆 &nbsp;2024 - 2028 - Running\
-📍 **&nbsp;Government Syed Hatem Ali College-1110** -  Barishal, Bangladesh
-
-<img align="right" width="70px" src="https://i.ibb.co/DgYdcFd/college.jpg" />
-
-- 📖 **&nbsp;HSC**\
-📆 2020 - 2022\
-📍 **Mahelara Degree College** - Gournadi, Barishal, Bangladesh
-
-<img align="right" width="70px" src="https://i.ibb.co/52r7J8p/ak-school.jpg" />
-
-- 📖 **&nbsp;SSC**\
 📆 &nbsp;2019 - 2020\
-📍 **&nbsp;Batajore A.K Institution** - Gournadi, Barishal, Bangladesh 
+📍 **&nbsp;Sholak Victoria Secondary School** - uzirpur, Barishal, Bangladesh 
 </details>
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
@@ -342,8 +327,5 @@ alt="netlify"
 <!--============================================================
                      FOOTER
 ===============================================================-->
-<p align="center"> 
-    <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
-</p>
-
+ ## Thank You !
 
