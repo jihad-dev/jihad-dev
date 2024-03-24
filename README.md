@@ -292,7 +292,7 @@ alt="netlify"
 </table>
 <!--- stats (end) -->
 </p>        
- <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
+
 <!--============================================================
                      Educational Background Section
 ===============================================================-->
