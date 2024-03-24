@@ -2,7 +2,7 @@
   <!-- ============================================================
                              HEADING
 ============================================================== -->
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 <h1 align="center"> <img
     src="https://i.ibb.co/SNdPpy1/p1.gif"  width="80"/>Hello there... I am Jihadul Islam <img
     src="https://i.ibb.co/NF034fM/p3.gif" width="50"/></h1> 
