@@ -1,83 +1,107 @@
 
-<!-- ============================================================
+  <!-- ============================================================
                              HEADING
 ============================================================== -->
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 <h1 align="center"> <img
-      src="https://i.ibb.co/6g96M4h/ezgif-com-gif-maker.gif"  width="80"/>Hello, It s Me Jihadul Islam <img
-      src="https://i.ibb.co/xfN0brH/working-cat.gif" width="50"/></h1>
-
+    src="https://i.ibb.co/SNdPpy1/p1.gif"  width="80"/>Hello there... I am Jihadul Islam <img
+    src="https://i.ibb.co/NF034fM/p3.gif" width="50"/></h1> 
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />    
 <!-- ============================================================
                            TITLE
 =============================================================== -->
-##https://camo.githubusercontent.com/2163526388b9396c6a2cc3d6a91bf6b79d015faccb8378b740ed6dd18f160048/68747470733a2f2f692e6962622e636f2f58326346784e472f70322e77656270
-## <h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer)](https://developer-shourav.web.app)</h2>
-    
+
+<p align="center"> 
+    <img width="60%" src="https://readme-typing-svg.demolab.com?font=arial+black&size=24&pause=1000&color=D41953&center=true&width=410&lines=%F0%9F%8C%90+Web+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%92%BB+MERN+Stack+Developer;%E2%9A%99+React+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Frontend+Developer;%F0%9F%8E%93+JavaScript+Developer;%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D+Node+js+Developer;%F0%9F%93%B1+React+Native+developer" />
+</p>
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
-![Developer-Jihad-Banner](https://i.ibb.co/SRWSw72/367688353-764917818974413-7179664357516878007-n.png)
+<img width="100%"
+  src="https://i.ibb.co/T2RbjDk/431018470-378312555077437-4973013500139147513-n.png"
+  alt="hamimWebDev-Banner"
+/>
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+<!-- ============================================================
+                      ABOUT
+============================================================== -->
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/zQgyj6G/p4.gif">
 
+## <picture><img src="https://i.ibb.co/JRp2626/about-me.gif" width = 30px align="center"></picture><b> About Me</b>
+Greetings! I am Md. Hamim Howlader Asif, an adept Front-End Developer dedicated to crafting captivating web experiences that resonate with users. With extensive expertise in HTML, CSS, Bootstrap, Tailwind CSS, daisyUI, JavaScript, React.js, ReactVite, and Node.js, I specialize in pushing the boundaries of innovation through code.
 
+Driven by an unwavering commitment to excellence, I immerse myself in the dynamic realm of web development, constantly exploring new avenues to enhance user interfaces and elevate digital interactions. Whether orchestrating seamless and responsive designs or mastering the intricacies of front-end frameworks, I approach each project with fervor and precision.
+
+Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
+
+Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
+ <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
                       TROFFES
 ============================================================== -->
 <p align="center">
-<a href="https://developer-shourav.web.app" target="_blank"
-  ><img
-    src="https://github-profile-trophy.vercel.app/?username=developer-shourav&row=1&column=5&theme=radical"
-    alt="developer-shourav"
+<a href="https://hamimWebDev.web.app" target="_blank"
+  ><img width="100%"
+    src="https://github-profile-trophy.vercel.app/?username=hamimWebDev&row=1&column=5&theme=radical"
+    alt="hamimWebDev"
+    margin-right: 5px;
 /></a>
 </p>
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 <!-- ============================================================
                      PROFILE VIEWER
 ============================================================== -->
-<p  >
-<img width="200px"
-  src="https://komarev.com/ghpvc/?username=jihad-dev&label=Profile%20views&color=0e75b6&style=flat"
-  alt="developer-shourav"
-/>
+
+<h2 align="left"> 👁️ Profile Viewer</h2><br/>
+
+<p align="center"> 
+    <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
 </p>
+<p align="center">
+    <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
+</p>
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!-- ============================================================
                 PRESENT PRIMARY INFO
 ============================================================== -->
-
-
+ 
+<h2 align="left"> 💻 Primary Info</h2><br/>
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://jihad-portfolio.vercel.app/](https://jihad-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://hamimWebDev.web.app]
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/developer-shourav)
+- 📝 I regularly write articles on [LinkedIn]
 
 - 💬 Ask me about ***JavaScript***
 
-- 📫 How to reach me <a href="mailto:developer.shourav1@gmail.com" target="_blank">developer.shourav1@gmail.com</a>
+- 📫 How to reach me <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank">mdhamimhowladerasif@gmail.com</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/11bI7iWEpeg5-WLUKDxUOqx5nLlQFZqi8/view?usp=sharing" target="_blank" >Download My
+- 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!-- ============================================================
                  MY CONTACT INFORMATION
 ============================================================== -->
 
-## Connect with me:
+## <img src="https://i.ibb.co/CnNnV0Q/p6.gif" width=50px>Socials
 
 <p align="center"> 
-<a href="https://developer-shourav.web.app/" target="_blank"><img src="https://img.icons8.com/fluency/100/null/domain.png" height="60" width="60" alt="https://developer-shourav.web.app" /></a>
-<a href="https://www.linkedin.com/in/developer-shourav/" target="_blank"><img src="https://img.icons8.com/color/100/undefined/linkedin-circled.png" height="60" width="60" alt="Linkedin-icon" /></a>
-<a href="mailto:developer.shourav1@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/100/undefined/mail.png" height="60" width="60" alt="mailto:developer.shourav1@gmail.com" /></a>
-<a href="https://wa.me/+8801932376388" target="_blank"><img src="https://img.icons8.com/color/100/undefined/whatsapp--v1.png" height="60" width="60" alt="https://wa.me/+8801932376388" /></a>
-<a href="https://join.skype.com/invite/pem7MobNeCzH" target="_blank"><img src="https://img.icons8.com/color/100/undefined/skype--v1.png" height="60" width="60" alt="https://join.skype.com/invite/pem7MobNeCzH" /></a>
-<a href="https://telegram.me/Developer_Shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/telegram-app--v1.png" height="60" width="60" alt="https://telegram.me/Developer_Shourav" /></a>
-<a href="https://m.me/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/undefined/facebook-messenger--v1.png" height="60" width="60" alt="https://m.me/developer.shourav" /></a>
-<a href="https://www.facebook.com/developer.shourav" target="_blank"><img src="https://img.icons8.com/color/100/null/facebook-new.png" height="60" width="60" alt="Facebook-icon" /></a>
+<a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank"><img src="https://i.ibb.co/hLhnB2r/p5.png" height="60" width="60" alt="mailto:mdhamimhowladerasif@gmail.com" /></a>
+<a href="https://wa.me/+8801839500404" target="_blank"><img src="https://i.ibb.co/JnqQcmk/p7.png" height="60" width="60" alt="https://wa.me/+8801839500404" /></a>
+<a href="https://telegram.me/@hamimWebDev" target="_blank"><img src="https://i.ibb.co/xh5y5r7/p8.png" height="60" width="60" alt="https://telegram.me/@hamimWebDev" /></a>
+<a href="https://m.me/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/SxTZvCV/p9.png" height="60" width="60" alt="https://m.me/Hamim.webDevloper" /></a>
+<a href="https://www.facebook.com/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
-
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
                   MY SKILLS INFORMATION
 ============================================================== -->
 
-## Languages and Tools:
+## <img src="https://i.ibb.co/nPBVjBB/p11.webp" width ="25"> <b>  Skills</b> 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
@@ -95,33 +119,18 @@ resume</a>
     height="60"
   /></a>
   <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/100/null/javascript--v1.png"alt="javaScript"
+  <img src="https://i.ibb.co/w4CGsmP/s1.png"
     width="60"
     height="60"/>
    </a>
-<!--   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">  
-  <img src="https://img.icons8.com/color/100/null/typescript.png"
-  alt="typescript"
-    width="60"
-    height="60"
-  />
-</a> -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/100/null/bootstrap.png"alt="Bootstrap"
+  <img src="https://i.ibb.co/4THb3M0/s2.png"
     width="60"
     height="60"/>
 </a>
-<!--    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-    alt="sass"
-    width="60"
-    height="60"
-  />
-</a> -->
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img
-    src="./img/skill-icon/tailwind.png"
+    src="https://i.ibb.co/Vq54ndr/s3.png"
     alt="tailwind"
     width="60"
     height="40"
@@ -134,12 +143,6 @@ resume</a>
     height="40"
   />
 </a>
-<!--   <a href="https://mui.com/" target="_blank" rel="noreferrer">
- <img src="https://img.icons8.com/color/100/null/material-ui.png"
- alt="materialUI"
-    width="60"
-    height="60"/>
-</a> -->
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -150,7 +153,7 @@ resume</a>
  </a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
   <img
-    src="./img/skill-icon/vite.png"
+    src="https://i.ibb.co/5Rf0sXv/s5.png"
     alt="vite"
     width="60"
     height="60"
@@ -158,52 +161,29 @@ resume</a>
  </a>
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/kJ7bMDx/react-route.png"
+    src="https://i.ibb.co/0hgkTXB/s6.png"
     alt="react router"
     width="60"
     height="60"
   />
  </a>
-<!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-  <img
-    src="https://i.ibb.co/5WK7yWC/react-native.png"
-    alt="react native"
-    width="60"
-    height="60"
-  />
-</a> -->
-<!--  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-  <img
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-    alt="redux"
-    width="60"
-    height="60"
-  />
-</a> -->
-<!--     <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-  <img
-    src="https://i.ibb.co/N95KJjd/nextjs-original.png"
-    alt="nextjs"
-    width="60"
-    height="60"
-  /></a> -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img
-    src="https://img.icons8.com/fluency/144/null/node-js.png"
+    src="https://i.ibb.co/W0Hb2cS/s7.png"
     alt="nodejs"
     width="60"
     height="60"
   /> </a>
    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/DRCBB60/express.png"
+    src="https://i.ibb.co/cxyyM79/s8.png"
     alt="expressjs"
     width="60"
     height="60"
   /> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img
-   src="https://img.icons8.com/color/144/null/mongodb.png"
+   src="https://i.ibb.co/b1s740d/s9.png"
     alt="mongodb"
     width="60"
     height="60"
@@ -211,20 +191,13 @@ resume</a>
 </a>
 <a href="https://www.github.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/3Nmd776/github-original-wordmark.png"
+    src="https://i.ibb.co/9Vf796r/github.png"
     alt="github"
     width="60"
     height="60"
   />
 </a> 
-<a href="https://developer-shourav" target="_blank" rel="noreferrer">
-  <img
-    src="https://i.ibb.co/1z7FSvN/makdown.png"
-    alt="Readme.md icons"
-    width="60"
-    height="70"
-  />  
-</a> 
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -235,7 +208,7 @@ resume</a>
 </a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://img.icons8.com/color/144/null/visual-studio-code-2019.png"
+    src="https://i.ibb.co/YBwJyc5/s11.png"
     alt="visualstudio_code"
     width="60"
     height="60"
@@ -246,14 +219,6 @@ resume</a>
     src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg"
     alt="npm"
     width="50"
-    height="50"
-  />
-</a>
- <a href="https://yarnpkg.com/" target="_blank" rel="noreferrer">
-  <img
-    src="./img/skill-icon/yarn-full.png"
-    alt="yarn logo"
-    width="100"
     height="50"
   />
 </a>
@@ -268,31 +233,19 @@ resume</a>
 </a>
  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
   <img
-    src="https://i.ibb.co/TYH7xdd/vercel.png"
+    src="https://i.ibb.co/kghhnGk/s12.png"
     alt="Vercel logo"
     width="60"
     height="60"
   />
 </a>
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/null/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+<img src="https://i.ibb.co/JQQYPQJ/s13.png"
 alt="netlify"
     width="60"
     height="60"/>
 </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img
-    src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-    alt="heroku"
-    width="60"
-    height="55"
-  />
-</a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/100/null/adobe-photoshop--v1.png" alt="photoshop"
-    width="60"
-    height="60"/>
-</a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img
     src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -302,90 +255,103 @@ alt="netlify"
   />
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
   <img
-     src="https://img.icons8.com/fluency/144/null/canva.png"
+     src="https://i.ibb.co/9czdmJY/s14.png"
     alt="canva"
     width="60"
     height="60"
   />
   </a>
 </p>
-
-
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!--============================================================
                      Github State Section
 ===============================================================-->
-## Github Stats
+  
+## <img src="https://i.ibb.co/y8MrSw1/p15.webp" width="35"><b> Github Stats </b>
 
+<!--- stats & Trophy (start) -->
 
 <p align="center">
-<img  width="46%"  src="https://github-readme-stats.vercel.app/api?username=jihad-dev&show_icons=true&theme=radical" alt="Developer-jihad github status" />
-<img  width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=jihad-dev&theme=radical&border_radius=6" alt="Developer-jihad GitHub Streak" />
-
  
-</p>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+  <br><br>
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
 
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+  <br>
+  <br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamimWebDev&theme=midnight-purple&hide_border=false" /> 
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
+</td>
 
+<td width="50%" align="center">
 
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hamimWebDev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+  
+</tr>
+</table>
+<!--- stats (end) -->
+</p>        
+ <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
 <!--============================================================
                      Educational Background Section
 ===============================================================-->
-## Education
+<h2 align="left"> 👨‍🎓 Education</h2><br/>
 <details open>
 <summary style="font-size:1.5em;">📃 &nbsp;Academic Qualification</summary>
-
 <br>
 
+<img align="right" width="70px" src="https://i.ibb.co/58V22Zs/university.png" />
 
+- 📖 **&nbsp;Bachelor of Social Work**\
+📆 &nbsp;2024 - 2028 - Running\
+📍 **&nbsp;Government Syed Hatem Ali College-1110** -  Barishal, Bangladesh
 
-<img align="right" width="70px" src="./img/university.png" />
-
-- 📖 **&nbsp;Bachelor of Business Administration**\
-📆 &nbsp;2020 - 2024\
-📍 **&nbsp;National University Of Bangladesh** -  Dhaka-1320, Bangladesh
-
-<img align="right" width="70px" src="./img/college.png" />
+<img align="right" width="70px" src="https://i.ibb.co/DgYdcFd/college.jpg" />
 
 - 📖 **&nbsp;HSC**\
-📆 2018 - 2020\
-📍 **Government Doar Nawabgonj College and University** - Nawabgonj, Dhaka, Bangladesh
+📆 2020 - 2022\
+📍 **Mahelara Degree College** - Gournadi, Barishal, Bangladesh
 
-<img align="right" width="70px" src="./img/school.png" />
+<img align="right" width="70px" src="https://i.ibb.co/52r7J8p/ak-school.jpg" />
 
 - 📖 **&nbsp;SSC**\
-📆 &nbsp;2017 - 2018\
-📍 **&nbsp;Nawabgonj Govt. Pilot High School** - Nawabgonj, Dhaka, Bangladesh
+📆 &nbsp;2019 - 2020\
+📍 **&nbsp;Batajore A.K Institution** - Gournadi, Barishal, Bangladesh 
 </details>
-
-
-
-<br>
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!--============================================================
-                     FIRST FOOTER BANNER
+                     online courses
 ===============================================================-->
-<!-- ![Developer-Shourav website banner](./img/developer-shourav-github-footer-Fast-compressed.png) -->
+<h2 align="left"> 👨‍💻 Online Courses</h2><br/>
 
-<!-- ============================================================
-              DEVELOPER SHOURAV'S GITHUB STATS
-============================================================== -->
-<!-- <p align="center" >
-<a href="https://developer-shourav.web.app" target="_blank">  </a>
-<p> -->
-<!-- ============================================================
-              DEVELOPER SHOURAV'S GITHUB STREAK
-============================================================== -->
-<!-- <p align="center" >
-<a  href="https://developer-shourav.web.app" target="_blank" > <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" /> </a>
-<p> -->
+<details open>
+<summary style="font-size:1.5em;">📃 &nbsp;All Courses</summary>
+<br>
 
-<!-- <p  align="center" >
-<img  width="46%"  src="https://github-readme-stats.vercel.app/api?username=developer-shourav&show_icons=true&theme=radical" alt="Developer-Shourav github status" />
-<img  width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=developer-shourav&theme=radical&border_radius=6" alt="Developer-shourav GitHub Streak" />
-<p> -->
+<img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
-<!-- ============================================================
-                      FOOTER BANNER
-============================================================== -->
+- 📖 **&nbsp;Web Developing**\
+📆 &nbsp;batch 7\
+📍 **&nbsp;Programming Hero** -  Dhaka, Bangladesh\
+ [**&nbsp;Website**](https://www.programming-hero.com/)
+ [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
-![Developer-Shourav footer grettings img](./img/developer-shourav-github-footer-compressed.png)
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+<!--============================================================
+                     FOOTER
+===============================================================-->
+<p align="center"> 
+    <img width="30%" src="https://i.ibb.co/ZKjrDGx/Thanks.gif" />
+</p>
+
+![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
