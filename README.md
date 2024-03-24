@@ -281,7 +281,7 @@ alt="netlify"
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br><br>
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=jihad-dev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
 
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
@@ -293,7 +293,7 @@ alt="netlify"
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hamimWebDev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jihad-dev&theme=midnight-purple&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
   
