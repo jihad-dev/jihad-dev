@@ -72,13 +72,13 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 <h2 align="left"> 💻 Primary Info</h2><br/>
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://jihad-dev.web.app]
+- 👨‍💻 All of my projects are available at [https://jihad-portfolio.vercel.app/]
 
 - 📝 I regularly write articles on [LinkedIn]
 
-- 💬 Ask me about ***JavaScript***
+- 💬 Ask me about ***Web Development***
 
-- 📫 How to reach me <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank">mdhamimhowladerasif@gmail.com</a>
+- 📫 How to reach me <a href="mailto:jihad.islam1@gmail.com" target="_blank">jihad.islam1@gmail.com</a>
 
 - 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
@@ -91,11 +91,11 @@ resume</a>
 ## <img src="https://i.ibb.co/CnNnV0Q/p6.gif" width=50px>Socials
 
 <p align="center"> 
-<a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank"><img src="https://i.ibb.co/hLhnB2r/p5.png" height="60" width="60" alt="mailto:mdhamimhowladerasif@gmail.com" /></a>
+<a href="mailto:jihad.islam1@gmail.com" target="_blank"><img src="https://i.ibb.co/hLhnB2r/p5.png" height="60" width="60" alt="mailto:jihad.islam1@gmail.com" /></a>
 <a href="https://wa.me/+8801839500404" target="_blank"><img src="https://i.ibb.co/JnqQcmk/p7.png" height="60" width="60" alt="https://wa.me/+8801839500404" /></a>
 <a href="https://telegram.me/@jihad-dev" target="_blank"><img src="https://i.ibb.co/xh5y5r7/p8.png" height="60" width="60" alt="https://telegram.me/@jihad-dev" /></a>
-<a href="https://m.me/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/SxTZvCV/p9.png" height="60" width="60" alt="https://m.me/Hamim.webDevloper" /></a>
-<a href="https://www.facebook.com/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
+<a href="https://m.me/jihad-dev" target="_blank"><img src="https://i.ibb.co/SxTZvCV/p9.png" height="60" width="60" alt="https://m.me/jihad-dev" /></a>
+<a href="https://www.facebook.com/jihad-dev" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
