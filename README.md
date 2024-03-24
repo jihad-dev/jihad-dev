@@ -30,13 +30,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/zQgyj6G/p4.gif">
 
 ## <picture><img src="https://i.ibb.co/JRp2626/about-me.gif" width = 30px align="center"></picture><b> About Me</b>
-Greetings! I am Md. Hamim Howlader Asif, an adept Front-End Developer dedicated to crafting captivating web experiences that resonate with users. With extensive expertise in HTML, CSS, Bootstrap, Tailwind CSS, daisyUI, JavaScript, React.js, ReactVite, and Node.js, I specialize in pushing the boundaries of innovation through code.
-
-Driven by an unwavering commitment to excellence, I immerse myself in the dynamic realm of web development, constantly exploring new avenues to enhance user interfaces and elevate digital interactions. Whether orchestrating seamless and responsive designs or mastering the intricacies of front-end frameworks, I approach each project with fervor and precision.
-
-Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
-
-Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
+Hello! My name is Jihadul Islam, From Barisal, Bangladesh. I am a MERN Stack web developer specializing in building React.js WebApp. I enjoy creating things that live on the internet. My interest in web development started back in 2021, I use Javascript, React.js, Next.js, Express, Node, Mongodb, Firebase and much more technology to create high-end interactive experiences and products. Recently working on some great and best projects.
  <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
                       TROFFES
