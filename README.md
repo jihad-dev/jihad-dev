@@ -57,7 +57,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 <h2 align="left"> 👁️ Profile Viewer</h2><br/>
 
 <p align="center"> 
-    <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
+    <img width="50%" src="https://profile-counter.glitch.me/jihad-dev/count.svg" />
 </p>
 <p align="center">
     <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
