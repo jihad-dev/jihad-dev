@@ -34,7 +34,7 @@ Hello! My name is Jihadul Islam, From Barisal, Bangladesh. I am a MERN Stack web
 ============================================================== -->
 <p align="center">
 <a href="https://jihad-dev.web.app" target="_blank"
-  ><img width="100%"
+  ><img width="80%"
     src="https://github-profile-trophy.vercel.app/?username=jihad-dev&row=1&column=5&theme=radical"
     alt="jihad-dev"
     margin-right: 5px;
