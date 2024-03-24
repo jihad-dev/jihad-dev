@@ -86,7 +86,7 @@ resume</a>
 <a href="https://wa.me/+8801839500404" target="_blank"><img src="https://i.ibb.co/JnqQcmk/p7.png" height="60" width="60" alt="https://wa.me/+8801839500404" /></a>
 <a href="https://telegram.me/@jihad-dev" target="_blank"><img src="https://i.ibb.co/xh5y5r7/p8.png" height="60" width="60" alt="https://telegram.me/@jihad-dev" /></a>
 <a href="https://m.me/jihad-dev" target="_blank"><img src="https://i.ibb.co/SxTZvCV/p9.png" height="60" width="60" alt="https://m.me/jihad-dev" /></a>
-<a href="https://www.facebook.com/jihad-dev" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
+<a href="https://web.facebook.com/Devloperjihad" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- ============================================================
