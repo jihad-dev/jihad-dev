@@ -42,10 +42,10 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
                       TROFFES
 ============================================================== -->
 <p align="center">
-<a href="https://hamimWebDev.web.app" target="_blank"
+<a href="https://jihad-dev.web.app" target="_blank"
   ><img width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=hamimWebDev&row=1&column=5&theme=radical"
-    alt="hamimWebDev"
+    src="https://github-profile-trophy.vercel.app/?username=jihad-dev&row=1&column=5&theme=radical"
+    alt="jihad-dev"
     margin-right: 5px;
 /></a>
 </p>
@@ -58,7 +58,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 <h2 align="left"> 👁️ Profile Viewer</h2><br/>
 
 <p align="center"> 
-    <img width="50%" src="https://profile-counter.glitch.me/hamimWebDev/count.svg" />
+    <img width="50%" src="https://profile-counter.glitch.me/jihad-dev/count.svg" />
 </p>
 <p align="center">
     <img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Geometric%20White.gif" />
@@ -72,7 +72,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 <h2 align="left"> 💻 Primary Info</h2><br/>
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://hamimWebDev.web.app]
+- 👨‍💻 All of my projects are available at [https://jihad-dev.web.app]
 
 - 📝 I regularly write articles on [LinkedIn]
 
@@ -93,7 +93,7 @@ resume</a>
 <p align="center"> 
 <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank"><img src="https://i.ibb.co/hLhnB2r/p5.png" height="60" width="60" alt="mailto:mdhamimhowladerasif@gmail.com" /></a>
 <a href="https://wa.me/+8801839500404" target="_blank"><img src="https://i.ibb.co/JnqQcmk/p7.png" height="60" width="60" alt="https://wa.me/+8801839500404" /></a>
-<a href="https://telegram.me/@hamimWebDev" target="_blank"><img src="https://i.ibb.co/xh5y5r7/p8.png" height="60" width="60" alt="https://telegram.me/@hamimWebDev" /></a>
+<a href="https://telegram.me/@jihad-dev" target="_blank"><img src="https://i.ibb.co/xh5y5r7/p8.png" height="60" width="60" alt="https://telegram.me/@jihad-dev" /></a>
 <a href="https://m.me/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/SxTZvCV/p9.png" height="60" width="60" alt="https://m.me/Hamim.webDevloper" /></a>
 <a href="https://www.facebook.com/Hamim.webDevloper" target="_blank"><img src="https://i.ibb.co/2MYxCcW/p10.png" height="60" width="60" alt="Facebook-icon" /></a>
 </p> 
@@ -286,7 +286,7 @@ alt="netlify"
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
   <br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamimWebDev&theme=midnight-purple&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jihad-dev&theme=midnight-purple&hide_border=false" /> 
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 </td>
