@@ -5,7 +5,7 @@
 ============================================================== -->
 
 <h1 align="center"> <img
-    src="https://i.ibb.co/SNdPpy1/p1.gif"  width="80"/>Hello there... I am Jihadul Islam 
+    src="https://i.ibb.co/SNdPpy1/p1.gif"  width="80"/>Hello there... I am Jihadul Islam 👋
 
 <!-- ============================================================
                            TITLE
