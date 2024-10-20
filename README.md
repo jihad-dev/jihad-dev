@@ -16,7 +16,7 @@
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
-<img src="https://drive.google.com/file/d/1vZR0QmaCz1AEqqX2L3B3v3ZBsOUivRa6/view?usp=sharing" alt="description" width="100%">
+<img src="https://i.ibb.co.com/VNJQhjf/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="description" width="100%">
 
 
 <!-- ============================================================
