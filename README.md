@@ -16,10 +16,8 @@
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
-<img width="100%"
-  src="https://scontent.fdac96-2.fna.fbcdn.net/v/t39.30808-6/367688353_764917818974413_7179664357516878007_n.png?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFzKz5a-YfnRk0iuyRfs7bwbEFIKB225x1sQUgoHbbnHXromhUllk9V0EFFMtAuRnHKlQ7g3CLE6b2I5S1q0Wam&_nc_ohc=ohmIHvCWqkoAX8MRYfG&_nc_zt=23&_nc_ht=scontent.fdac96-2.fna&oh=00_AfCXSG2x-3hKeTpoM_FEwsspGUfe58SiAGMJ6Ek_w3Jd4w&oe=66053CE4"
-  alt="jihad-dev-banner"
-/>
+<img src="https://drive.google.com/file/d/1vZR0QmaCz1AEqqX2L3B3v3ZBsOUivRa6/view?usp=sharing" alt="description" width="100%">
+
 
 <!-- ============================================================
                       ABOUT
