@@ -3,7 +3,7 @@
 <!-- ============================================================
                     PROFILE BANNER IMAGE
 ============================================================== -->
-<img src="https://i.ibb.co.com/VNJQhjf/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="description" width="100%">
+<img src="https://i.ibb.co.com/sQfnLgw/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="banner" width="100%">
 
 
 <!-- ============================================================
