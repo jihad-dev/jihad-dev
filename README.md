@@ -56,7 +56,7 @@ Hello! My name is Jihadul Islam, From Barisal, Bangladesh. I am a MERN Stack web
 
 - 💬 Ask me about ***Web Development***
 
-- 📫 How to reach me <a href="mailto:jihad.islam1@gmail.com" target="_blank">jihad.islam1@gmail.com</a>
+- 📫 How to reach me <a href="mailto:jihad.islam1@gmail.com" target="_blank">jihadul.islam.dev@gmail.com</a>
 
 - 📄 Know about my experiences <a href="" target="_blank" >Download My
 resume</a>
