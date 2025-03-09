@@ -14,8 +14,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/zQgyj6G/p4.gif">
 
 ## <picture><img src="https://i.ibb.co/JRp2626/about-me.gif" width = 30px align="center"></picture><b> About Me</b>
-Hello! 
-My name is Jihadul Islam, and I am a MERN Stack Developer based in Dhaka, Bangladesh. Since 2021, I have been passionate about developing dynamic web applications using technologies such as React.js, Next.js, Node.js, MongoDB, Firebase, and other innovative tools. I enjoy creating interactive, high-quality digital experiences and being a part of impactful projects.
+I am a professional MERN stack developer to build a high-quality, responsive, scalable web application. Look no further! With expertise in **React.js,  Node.js, Express.js, and MongoDB**, I specialize in delivering top-notch web solutions tailored to your needs.
 
 <!-- ============================================================
                       TROFFES
