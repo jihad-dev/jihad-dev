@@ -4,7 +4,7 @@
                     PROFILE BANNER IMAGE
 ============================================================== -->
 <a href="https://jihad-portfolio.vercel.app/">
-<img src="https://i.ibb.co.com/sQfnLgw/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image-1.png" alt="banner" width="100%">
+<img src="https://res.cloudinary.com/xi23nuqh/image/upload/v1792029304/github-banner.png" alt="banner" width="100%">
 </a>
 
 
